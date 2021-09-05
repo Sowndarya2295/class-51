@@ -1,0 +1,40 @@
+h1{
+    color : #ffffff;
+}
+
+.header{
+    background-color :#800000;
+    display:flex;
+    justify-content : space-between;
+}
+
+.grid{
+    display : flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color: #000000;
+}
+
+
+.menu a{
+    
+    color : #ffffff;
+}
+
+
+.footer{
+    display:flex;
+    justify-content:flex-start;
+    background-color: #ffffff;
+}
+
+p{
+    text-align : center;
+    color : #00ff00;
+}
+
+h2,h3{
+    text-align: center;
+    color : #0000ff
+}
+
